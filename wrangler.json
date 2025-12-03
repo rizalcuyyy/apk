@@ -1,5 +1,5 @@
 {
   "name": "nama-worker-kamu",
-  "main": "src/index.ts",
+  "main": "androidtv/index.html",
   "compatibility_date": "2025-12-03"
 }
